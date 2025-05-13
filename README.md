@@ -1,4 +1,4 @@
-## Hi there 👋
+"Aprendendo, testando, quebrando e corrigindo — e amando cada parte do processo."
 
 <!--
 **Mauricio-1986/Mauricio-1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
